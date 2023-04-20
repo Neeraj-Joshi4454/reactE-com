@@ -13,7 +13,7 @@ const NavbarNew = () => {
 
 <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">Brand Store</Navbar.Brand>
+        <Navbar.Brand href="/">Brand Store</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
